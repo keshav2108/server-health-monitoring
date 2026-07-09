@@ -1,0 +1,27 @@
+
+====================================================
+SERVER HEALTH REPORT
+====================================================
+
+Hostname       : AVISHA
+
+IP Address     : 172.19.247.204
+
+Date           : Thu Jul  9 09:01:42 UTC 2026
+
+CPU Usage      : 2%
+
+Memory Usage   : 12%
+
+Disk Usage     : 2%
+
+Uptime         : up 1 hour, 50 minutes
+
+Load Average   :  0.00, 0.00, 0.00
+
+Services
+
+[FAIL] ssh is NOT running\n[OK] cron is running\n[FAIL] docker is NOT running\n
+
+====================================================
+
